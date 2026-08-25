@@ -2,8 +2,6 @@
 
 # Hey There!
 
----
-
 Im F3rd,
 
 I am a developer focused on low-level programming, cybersecurity, and AI.
