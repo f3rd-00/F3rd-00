@@ -2,9 +2,7 @@
 
 # Hey There!
 
-Im F3rd,
-
-I am a developer focused on low-level programming, cybersecurity, and AI.
+Im F3rd. I am a developer focused on low-level programming, cybersecurity, and AI.
 I create projects ranging from malware research and security tools to AI agents, automation, and experimental software.
 I work primarily with C (and C++), Python, JS and Go, but I enjoy learning any technology that helps me build what I am trying to create.
 
