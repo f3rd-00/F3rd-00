@@ -1,11 +1,111 @@
-![Wave divider](https://readme-svg-wave-divider-generator.vercel.app/wave?type=sine&width=1200&height=80&amplitude=29&frequency=2&layers=2&color_top=787878&color_bottom=1c1c1c&opacity=1&flip=true&gradient=true&mirror=true&animate=true&speed=10&text=&text_bottom=&text_color=ff0000&text_bottom_color=ffffff&text_size=28&text_bottom_size=22&text_style=normal&text_stroke_color=000000&text_stroke_width=0&text_scale_x=100&text_scale_y=100&text_x=50&text_y=45&text_gap=26&text_align=middle)
+<div align="center">
 
-# Hey There! 👋
+# F3rd 👋
 
-Im F3rd. I am a developer focused on low-level programming, cybersecurity, and AI.
-I create projects ranging from malware research and security tools to AI agents, automation, and experimental software.
-I work primarily with C (and C++), Python, JS and Go, but I enjoy learning any technology that helps me build what I am trying to create.
+### Low-Level • Cybersecurity • AI • Systems
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,react,python,html,css,javascript,typescript,golang,sqlite,supabase,mongodb&theme=dark&perline=15)](https://skillicons.dev)
+**Building things. Breaking things. Understanding how they work.**
 
-![Wave divider](https://readme-svg-wave-divider-generator.vercel.app/wave?type=sine&width=1200&height=80&amplitude=29&frequency=2&layers=2&color_top=787878&color_bottom=1c1c1c&opacity=1&flip=false&gradient=true&mirror=true&animate=true&speed=10&text=&text_bottom=&text_color=ff0000&text_bottom_color=ffffff&text_size=28&text_bottom_size=22&text_style=normal&text_stroke_color=000000&text_stroke_width=0&text_scale_x=100&text_scale_y=100&text_x=50&text_y=45&text_gap=26&text_align=middle)
+[![GitHub](https://img.shields.io/badge/GitHub-f3rd--00-181717?style=for-the-badge&logo=github)](https://github.com/f3rd-00)
+[![Profile Views](https://komarev.com/ghpvc/?username=f3rd-00&style=for-the-badge&color=blueviolet)](https://github.com/f3rd-00)
+
+</div>
+
+---
+
+## 🧠 About me
+
+I'm **F3rd**, a developer who likes going beyond the surface and understanding software **from the low level up**.
+
+I build and experiment across **systems programming, cybersecurity, AI, automation, and experimental software**. I prefer projects that make me learn something difficult rather than projects that are just easy to finish.
+
+```text
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│   LOW-LEVEL        CYBERSECURITY       AI       │
+│       │                  │             │        │
+│       └──────────────┬───┴─────────────┘        │
+│                      │                          │
+│                      ▼                          │
+│               EXPERIMENTATION                  │
+│                      │                          │
+│              ┌───────┴───────┐                  │
+│              ▼               ▼                  │
+│         AUTOMATION       SYSTEMS               │
+│                                                 │
+└─────────────────────────────────────────────────┘
+```
+
+---
+
+## ⚡ Tech stack
+
+<div align="center">
+
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+### Web & Data
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 What I build
+
+I like turning what I'm learning into **real projects**.
+
+- 🔧 **Low-level & systems** — understanding what happens under the hood
+- 🛡️ **Cybersecurity** — security research, tooling, and experimentation
+- 🤖 **AI** — agents, automation, and practical experiments
+- 🧪 **Experimental software** — weird ideas are often the most interesting ones
+- 📊 **Data & backend** — databases, SQL, architecture, and performance
+
+> **Learn → Build → Break → Understand → Repeat.**
+
+---
+
+## 📌 Featured project
+
+### 🛒 Mercato
+
+**Marketplace Database & Analytics Platform**
+
+A serious PostgreSQL project focused on **relational modeling, advanced SQL, analytics, transactions, concurrency, indexing, and query performance**.
+
+[![View Mercato](https://img.shields.io/badge/Explore-Mercato-6C63FF?style=for-the-badge&logo=github)](https://github.com/f3rd-00/mercato)
+
+---
+
+## 📊 GitHub activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f3rd-00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=f3rd-00&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Always building. Always learning.
+
+**If you find something interesting, explore the repos.**
+
+</div>
