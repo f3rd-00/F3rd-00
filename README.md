@@ -33,13 +33,24 @@ I mainly work with **C/C++, Python, JavaScript/TypeScript and Go**, but I'm alwa
 
 </div>
 
-## 📊 Most used languages
+## 📈 GitHub activity
 
 <div align="center">
 
-<a href="https://github.com/rstar327/github-stats">
-  <img src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=f3rd-00&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180" />
-</a>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3rd-00&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180" />
+</td>
+<td>
+
+**Languages I use**
+
+A quick look at the languages behind my public projects.
+
+</td>
+</tr>
+</table>
 
 </div>
 
