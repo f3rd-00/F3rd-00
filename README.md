@@ -33,6 +33,14 @@ I mainly work with **C/C++, Python, JavaScript/TypeScript and Go**, but I'm alwa
 
 </div>
 
+## 📊 Most used languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3rd-00&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180" />
+
+</div>
+
 ## 🚀 What I'm building
 
 > **Software with curiosity behind it.**
