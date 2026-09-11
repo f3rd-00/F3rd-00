@@ -1,7 +1,7 @@
 <div align="center">
 
 # F3rd
-### High-level • Low-level • Software Development
+### Full-stack • High-level • Low-level
 
 <img src="https://readme-svg-wave-divider-generator.vercel.app/wave?type=sine&width=1200&height=80&amplitude=29&frequency=2&layers=2&color_top=787878&color_bottom=1c1c1c&opacity=1&flip=true&gradient=true&mirror=true&animate=true&speed=10" width="100%" />
 
@@ -16,9 +16,10 @@
 
 ## 👨‍💻 About me
 
-I'm **F3rd**, a developer who enjoys working across different layers of software — from high-level applications and interfaces to low-level systems and performance-focused code.
+I'm **F3rd**, a **full-stack developer** who enjoys working across different layers of software — from high-level applications and interfaces to low-level systems and performance-focused code.
 
-- 🖥️ **High-level development** — applications, interfaces, automation and full-stack projects
+- 🌐 **Full-stack development** — frontend, backend, APIs, databases and complete applications
+- 🖥️ **High-level development** — applications, interfaces, automation and modern software
 - ⚙️ **Low-level programming** — systems, internals and performance-focused software
 - 🤖 **AI** — agents, automation and experimental ideas
 - 🧪 **Experimentation** — I like building things just to see how far they can go
@@ -41,7 +42,7 @@ I mainly work with **C/C++, Python, JavaScript/TypeScript and Go**, but I'm alwa
 
 > **Software with curiosity behind it.**
 
-From high-level applications and automation to low-level experiments and systems programming, most of my projects start with a simple question:
+From full-stack applications and automation to low-level experiments and systems programming, most of my projects start with a simple question:
 
 **“What happens if I try this?”**
 
