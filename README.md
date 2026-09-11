@@ -31,26 +31,9 @@ I mainly work with **C/C++, Python, JavaScript/TypeScript and Go**, but I'm alwa
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,go,javascript,typescript,react,html,css,sqlite,supabase,mongodb&theme=dark&perline=12)](https://skillicons.dev)
 
-</div>
+<br>
 
-## 📈 GitHub activity
-
-<div align="center">
-
-<table>
-<tr>
-<td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3rd-00&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180" />
-</td>
-<td>
-
-**Languages I use**
-
-A quick look at the languages behind my public projects.
-
-</td>
-</tr>
-</table>
 
 </div>
 
