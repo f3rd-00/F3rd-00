@@ -25,7 +25,7 @@ I like learning by building — taking an idea, breaking it down, understanding 
 
 ### 📊 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3rd-00&layout=compact&theme=dark&hide_border=true&langs_count=10&hide=HTML,CSS&exclude_repo=F3rd-00" height="165" />
+<img src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=f3rd-00&layout=compact&theme=dark&hide_border=true&langs_count=10&hide=HTML,CSS" height="165" />
 
 </td>
 </tr>
