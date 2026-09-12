@@ -12,9 +12,9 @@ I enjoy building software across the stack — from modern applications and AI e
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,go,javascript,typescript,react,html,css,sqlite,supabase,mongodb&theme=dark&perline=12)](https://skillicons.dev)
 
-## 📊 Most Used Languages
+## 📊 GitHub Metrics
 
-<img src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=f3rd-00&layout=compact&theme=dark&hide_border=true&langs_count=12" height="180" />
+<img src="./metrics.svg" alt="GitHub Metrics" width="100%" />
 
 <img src="https://readme-svg-wave-divider-generator.vercel.app/wave?type=sine&width=1200&height=80&amplitude=29&frequency=2&layers=2&color_top=1c1c1c&color_bottom=787878&opacity=1&flip=false&gradient=true&mirror=true&animate=true&speed=10" width="100%" />
 
