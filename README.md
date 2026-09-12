@@ -10,17 +10,24 @@ I build software across the stack, from modern applications and AI experiments t
 
 </div>
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" valign="top" width="50%">
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,go,javascript,typescript,react,html,css,sqlite,supabase,mongodb&theme=dark&perline=6)](https://skillicons.dev)
 
-## 📊 Most Used Languages
+</td>
+<td align="center" valign="top" width="50%">
+
+### 📊 Most Used Languages
 
 <img src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=f3rd-00&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
 
-</div>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
