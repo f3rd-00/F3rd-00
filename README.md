@@ -8,7 +8,7 @@
 
 I build software across the stack, from modern applications and AI experiments to low-level systems. I enjoy understanding how things work under the hood, building things from scratch, and turning ideas into practical software. My interests span frontend, backend, APIs, databases, automation, AI, systems programming, and performance-focused development.
 
-I like learning by building — taking an idea, breaking it down, understanding the technology behind it, and turning it into something that actually works. I'm especially interested in exploring different layers of software rather than staying limited to a single area of development.
+I like learning by building — taking an idea, breaking it down, understanding the technology behind it, and turning it into something that actually works. I'm especially interested in exploring different layers of software, from user-facing applications and web services to the lower-level systems that make them possible.
 
 </div>
 
@@ -25,7 +25,7 @@ I like learning by building — taking an idea, breaking it down, understanding 
 
 ### 📊 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3rd-00&layout=compact&theme=dark&hide_border=true&langs_count=10&hide=Jupyter%20Notebook" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3rd-00&layout=compact&theme=dark&hide_border=true&langs_count=10&hide=HTML,CSS&exclude_repo=F3rd-00" height="165" />
 
 </td>
 </tr>
