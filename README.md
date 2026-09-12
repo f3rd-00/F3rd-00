@@ -4,6 +4,8 @@
 
 **Full-stack • High-level • Low-level**
 
+> Building software across the stack — from modern applications and AI experiments to low-level systems and performance-focused code.
+
 <img src="https://readme-svg-wave-divider-generator.vercel.app/wave?type=sine&width=1200&height=80&amplitude=29&frequency=2&layers=2&color_top=787878&color_bottom=1c1c1c&opacity=1&flip=true&gradient=true&mirror=true&animate=true&speed=10" width="100%" />
 
 ### 🛠️ Tech Stack
