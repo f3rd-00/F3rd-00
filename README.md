@@ -34,7 +34,7 @@ I mainly work with **C/C++, Python, JavaScript/TypeScript and Go**, but I'm alwa
 
 <br>
 
-<img src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=f3rd-00&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180" />
+<img src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=f3rd-00&layout=compact&theme=dark&hide_border=true&langs_count=12" height="180" />
 
 </div>
 
