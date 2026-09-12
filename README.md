@@ -6,9 +6,7 @@
 
 **Full-stack • High-level • Low-level**
 
-I build software across the stack, from modern applications and AI experiments to low-level systems. I enjoy understanding how things work under the hood, building things from scratch, and turning ideas into practical software. My interests span frontend, backend, APIs, databases, automation, AI, systems programming, and performance-focused development.
-
-I like learning by building — taking an idea, breaking it down, understanding the technology behind it, and turning it into something that actually works. I'm especially interested in exploring different layers of software, from user-facing applications and web services to the lower-level systems that make them possible.
+> Building across the stack, from modern apps and AI experiments to low-level systems — with a focus on curiosity, learning, and creating things from scratch.
 
 </div>
 
